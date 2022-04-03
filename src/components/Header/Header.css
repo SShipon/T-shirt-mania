@@ -1,0 +1,12 @@
+.header-container{
+    background-color: rgb(9, 25, 25);
+    padding: 10px;
+}
+nav a{
+     margin-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+nav a:hover{
+    color: orange;
+}

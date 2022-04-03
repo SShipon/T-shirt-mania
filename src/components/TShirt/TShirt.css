@@ -1,0 +1,8 @@
+.t-Shirt-container{
+    height: 400px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.t-Shirt-container img{
+   height: 250px;
+}

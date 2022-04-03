@@ -1,0 +1,13 @@
+.sortHand{
+    background-color: orangered;
+}
+.add{
+    background-color: yellow;
+}
+.btn-hero{
+    background-color: orangered;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    border: 0;
+}
